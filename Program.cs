@@ -22,23 +22,35 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.WriteLine ("Input number 1: ");
-int num1 = Convert.ToInt32 (Console.ReadLine());
+// Console.WriteLine ("Input number 1: ");
+// int num1 = Convert.ToInt32 (Console.ReadLine());
 
-Console.WriteLine("Input number 2: ");
-int num2 = Convert.ToInt32 (Console.ReadLine());
+// Console.WriteLine("Input number 2: ");
+// int num2 = Convert.ToInt32 (Console.ReadLine());
 
-Console.WriteLine("Input number 3: ");
-int num3 = Convert.ToInt32 (Console.ReadLine());
+// Console.WriteLine("Input number 3: ");
+// int num3 = Convert.ToInt32 (Console.ReadLine());
 
-int biggest = num1;
+// int biggest = num1;
 
-if (num2>num1)
-{
-    biggest = num2;
-}
-if (num3>biggest)
-{
-    biggest = num3;
-}
-Console.WriteLine($"Biggest number is {biggest}");
+// if (num2>num1)
+// {
+//     biggest = num2;
+// }
+// if (num3>biggest)
+// {
+//     biggest = num3;
+// }
+// Console.WriteLine($"Biggest number is {biggest}");
+
+// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+// 4 -> да
+// -3 -> нет
+// 7 -> нет
+
+Console.WriteLine ("Input number: ");
+int num = Convert.ToInt32 (Console.ReadLine());
+
+if (num % 2 == 0)
+Console.WriteLine($"This number ({num}) is even");
+else Console.WriteLine($"This number ({num}) is odd");

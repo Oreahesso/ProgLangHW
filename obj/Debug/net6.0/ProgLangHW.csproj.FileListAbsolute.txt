@@ -1,0 +1,15 @@
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.csproj.AssemblyReference.cache
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.AssemblyInfoInputs.cache
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.AssemblyInfo.cs
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.csproj.CoreCompileInputs.cache
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\bin\Debug\net6.0\ProgLangHW.exe
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\bin\Debug\net6.0\ProgLangHW.deps.json
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\bin\Debug\net6.0\ProgLangHW.runtimeconfig.json
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\bin\Debug\net6.0\ProgLangHW.dll
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\bin\Debug\net6.0\ProgLangHW.pdb
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.dll
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\refint\ProgLangHW.dll
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.pdb
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ProgLangHW.genruntimeconfig.cache
+C:\_GeekBrains\Веб-техноогии\Sem1HW\proglanghw\obj\Debug\net6.0\ref\ProgLangHW.dll
